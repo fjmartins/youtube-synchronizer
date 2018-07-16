@@ -9,7 +9,7 @@ export default class Nav extends Component {
     return (
       <nav className="navbar navbar-default">
         <div className="navbar-header">
-          <Link className="navbar-brand" to="/">Video Conference App</Link>
+          <Link className="navbar-brand" to="/">YouTube Party</Link>
         </div>
         <ul className="nav navbar-nav navbar-right">
           <li>

@@ -12,8 +12,8 @@ export default class Home extends Component {
   render() {
     return (
       <div>
-        <Panel>          
-          <Chat/>
+        <Panel>
+          
         </Panel>
       </div>
     );
